@@ -1,0 +1,14 @@
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\ExCarro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\ExCarro.AssemblyInfoInputs.cache
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\ExCarro.AssemblyInfo.cs
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\ExCarro.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\bin\Debug\net10.0\ExCarro.exe
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\bin\Debug\net10.0\ExCarro.deps.json
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\bin\Debug\net10.0\ExCarro.runtimeconfig.json
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\bin\Debug\net10.0\ExCarro.dll
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\bin\Debug\net10.0\ExCarro.pdb
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\ExCarro.dll
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\refint\ExCarro.dll
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\ExCarro.pdb
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\ExCarro.genruntimeconfig.cache
+C:\Users\kamil\Documents\Aluguel-Carros\ExCarro\obj\Debug\net10.0\ref\ExCarro.dll
